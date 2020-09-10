@@ -1,6 +1,6 @@
-# collaborative-text-editor
+# HTML Python Editor
 
-A simple website so that I can teach programming in an  interactive way to my tutees.
+Simple website to edit Python text files on any browser.
 
-Currently supports
- - python
+Based on collaborative-text-editor by Scott Edwards
+https://github.com/scottedwards/collaborative-text-editor
